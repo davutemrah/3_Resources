@@ -1,0 +1,6 @@
+book_filename: "resources"
+language:
+  ui:
+    chapter_name: "Theme "
+delete_merged_file: true
+output_dir: "docs"
