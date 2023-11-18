@@ -5,3 +5,9 @@
 - Class website of Dr.Rebecca Willett from University of Chicago.  
 - This course is an introduction to key mathematical concepts at the heart of machine learning. 
 - Class recordings and slides.
+
+
+[UBER Causal Models](https://www.uber.com/blog/causal-inference-at-uber/)
+
+
+[DoWHY](https://www.microsoft.com/en-us/research/blog/dowhy-evolves-to-independent-pywhy-model-to-help-causal-inference-grow/)
