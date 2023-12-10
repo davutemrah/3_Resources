@@ -11,3 +11,9 @@
 
 
 [DoWHY](https://www.microsoft.com/en-us/research/blog/dowhy-evolves-to-independent-pywhy-model-to-help-causal-inference-grow/)
+
+
+[Cran Resourses](https://cran.r-project.org/web/views/Econometrics.html)
+
+
+[Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
