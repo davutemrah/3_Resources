@@ -17,3 +17,6 @@
 
 
 [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
+
+
+[Causal Analysis - New book](https://mitpress.ublish.com/ebook/causal-analysis-impact-evaluation-and-causal-machine-learning-with-applications-in-r-preview/12759/Cover)
